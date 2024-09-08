@@ -1,6 +1,9 @@
 # Project place file
-/ambergame.rbxlx
+/The-overseers.rbxlx
 
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
+
+# exes
+argon
